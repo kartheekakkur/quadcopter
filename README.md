@@ -1,2 +1,2 @@
-# quadcopter
-Quadrotor Helicopter i
+# Quadcopter
+Quadrotor Helicopter
